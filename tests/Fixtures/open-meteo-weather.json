@@ -1,0 +1,28 @@
+{
+  "latitude": 45.4642,
+  "longitude": 9.1900,
+  "generationtime_ms": 0.0619888305664063,
+  "utc_offset_seconds": 0,
+  "timezone": "Europe/Rome",
+  "timezone_abbreviation": "CET",
+  "elevation": 120,
+  "current_weather_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature": "°C",
+    "windspeed": "km/h",
+    "winddirection": "°",
+    "is_day": "",
+    "weathercode": "wmo code"
+  },
+  "current_weather": {
+    "time": "2026-01-07T18:00",
+    "interval": 900,
+    "temperature": 5.2,
+    "windspeed": 15.3,
+    "winddirection": 180,
+    "is_day": 0,
+    "weathercode": 51
+  }
+}
+

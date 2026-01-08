@@ -1,0 +1,120 @@
+{
+  "autocomplete": {
+    "suggestions": [
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milan, Italy"
+          },
+          "placeId": "ChIJ9XNO5xS1hkcR5P1fzJ5V8kQ",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milanówek, Poland"
+          },
+          "placeId": "ChIJ123456789",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milano Marittima, Italy"
+          },
+          "placeId": "ChIJ987654321",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milton Keynes, UK"
+          },
+          "placeId": "ChIJ777777777",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milwaukee, USA"
+          },
+          "placeId": "ChIJ888888888",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milton, Canada"
+          },
+          "placeId": "ChIJ999999999",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Mildura VIC, Australia"
+          },
+          "placeId": "ChIJ000000000",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Milan, USA"
+          },
+          "placeId": "ChIJ111111111",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Paris, France"
+          },
+          "placeId": "ChIJD7fiBh9u5kcRYJSMaMOCCwQ",
+          "types": ["locality", "political"]
+        }
+      },
+      {
+        "placePrediction": {
+          "text": {
+            "text": "Paris, USA"
+          },
+          "placeId": "ChIJ333333333",
+          "types": ["locality", "political"]
+        }
+      }
+    ]
+  },
+  "searchText": {
+    "image": {
+      "places": [
+        {
+          "photos": [
+            {
+              "name": "places/ChIJ9XNO5xS1hkcR5P1fzJ5V8kQ/photos/AZLasHqZvpyXQ6gehjiWSz9MXCAituT3jI60TEfQS3RHs-sPvsz4MrwR9UVCeBN5iACmJPm9ikPwVMe8QHHXg6jMJMUEOHiXkV7M_PLt4q3BEfrflOEhrSHFiY--_E30BorI-2UnWnVzxHJm_iSHnKxWaJIpUGq0nKzEmH8qE30muEORTgIvh9QidJKgGaI4Zlv16CQr5CH8dLnbf7k3i8pJyxqdG7T6D8MJtK52Y9EMh1Ghm8TxjNQBC0qzLXOED1omdHvWgZQHsU7O4eVOu5W05Vk5pLsq6hbY1EUoTCE9Lk0icU0y9t5nviiGzwLNPweAoqIEMHIhwdQiJWK27Kw2bKYS1nnVXcgMaaPsWEOBm8gzTmf0uah0Olh1mxXP8AeqRc1alS3g2RebPAv6NGLEWv7uxO6Ygz8Kz4DVCGlk9XRUzuQ"
+            }
+          ]
+        }
+      ]
+    },
+    "coordinates": {
+      "places": [
+        {
+          "location": {
+            "latitude": 45.4642,
+            "longitude": 9.1900
+          }
+        }
+      ]
+    }
+  }
+}
+
